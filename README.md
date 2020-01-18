@@ -7,7 +7,7 @@ ____
 + If you don't know why,please [give me a hug](http://www.7k7k.com/).
  
  
- ![alt text](/Users/mac/Desktop/QQ20191201-0.jpg)
+ ![avatar](/Users/mac/Desktop/QQ20191201-0.jpg)
  
  java | lol | football
  --- | --- | ---
